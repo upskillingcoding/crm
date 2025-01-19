@@ -1,3 +1,3 @@
 # crm
-Mega Project Devloped
-Author - Ritik Gupta  
+Mega Project Developed
+Author - Ritik Gupta
